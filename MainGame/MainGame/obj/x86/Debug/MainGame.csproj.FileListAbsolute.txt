@@ -1,0 +1,12 @@
+E:\GameDev\MainGame\MainGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameDev\MainGame\MainGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\MainGame.exe
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\MainGame.pdb
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\CommsLib.dll
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\ObjectLib.dll
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\CommsLib.pdb
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\ObjectLib.pdb
+E:\GameDev\MainGame\MainGame\obj\x86\Debug\MainGame.exe
+E:\GameDev\MainGame\MainGame\obj\x86\Debug\MainGame.pdb
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\InputLib.dll
+E:\GameDev\MainGame\MainGame\bin\x86\Debug\InputLib.pdb

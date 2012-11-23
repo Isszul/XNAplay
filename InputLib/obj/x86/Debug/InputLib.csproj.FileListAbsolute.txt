@@ -1,0 +1,10 @@
+E:\GameDev\InputLib\bin\x86\Debug\InputLib.dll
+E:\GameDev\InputLib\bin\x86\Debug\InputLib.pdb
+E:\GameDev\InputLib\bin\x86\Debug\CommsLib.dll
+E:\GameDev\InputLib\bin\x86\Debug\ObjectLib.dll
+E:\GameDev\InputLib\bin\x86\Debug\CommsLib.pdb
+E:\GameDev\InputLib\bin\x86\Debug\ObjectLib.pdb
+E:\GameDev\InputLib\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameDev\InputLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\GameDev\InputLib\obj\x86\Debug\InputLib.dll
+E:\GameDev\InputLib\obj\x86\Debug\InputLib.pdb

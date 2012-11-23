@@ -1,0 +1,8 @@
+E:\GameDev\Libs\ObjectLib\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GameDev\Libs\ObjectLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\GameDev\Libs\ObjectLib\bin\x86\Debug\ObjectLib.dll
+E:\GameDev\Libs\ObjectLib\bin\x86\Debug\ObjectLib.pdb
+E:\GameDev\Libs\ObjectLib\bin\x86\Debug\CommsLib.dll
+E:\GameDev\Libs\ObjectLib\bin\x86\Debug\CommsLib.pdb
+E:\GameDev\Libs\ObjectLib\obj\x86\Debug\ObjectLib.dll
+E:\GameDev\Libs\ObjectLib\obj\x86\Debug\ObjectLib.pdb
